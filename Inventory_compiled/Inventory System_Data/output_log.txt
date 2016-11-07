@@ -16,7 +16,7 @@ Platform assembly: C:\Users\Farmazon\Desktop\Inventory_compiled\Inventory System
 Loading C:\Users\Farmazon\Desktop\Inventory_compiled\Inventory System_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
 Platform assembly: C:\Users\Farmazon\Desktop\Inventory_compiled\Inventory System_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
 Loading C:\Users\Farmazon\Desktop\Inventory_compiled\Inventory System_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
-- Completed reload, in  0.050 seconds
+- Completed reload, in  0.045 seconds
 Platform assembly: C:\Users\Farmazon\Desktop\Inventory_compiled\Inventory System_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\Users\Farmazon\Desktop\Inventory_compiled\Inventory System_Data\Managed\System.dll (this message is harmless)
 Platform assembly: C:\Users\Farmazon\Desktop\Inventory_compiled\Inventory System_Data\Managed\System.Xml.Linq.dll (this message is harmless)
@@ -25,8 +25,8 @@ Platform assembly: C:\Users\Farmazon\Desktop\Inventory_compiled\Inventory System
 <RI> Input initialized.
 desktop: 1680x1050 60Hz; virtual: 1680x1050 at 0,0
 <RI> Initialized touch support.
-UnloadTime: 0.804442 ms
+UnloadTime: 0.789383 ms
 Setting up 3 worker threads for Enlighten.
-  Thread -> id: 1af4 -> priority: 1 
-  Thread -> id: 3140 -> priority: 1 
-  Thread -> id: 2fa0 -> priority: 1 
+  Thread -> id: 2f1c -> priority: 1 
+  Thread -> id: 3818 -> priority: 1 
+  Thread -> id: 34f8 -> priority: 1 
